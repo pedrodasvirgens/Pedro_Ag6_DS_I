@@ -1,4 +1,4 @@
-# 🛒 Sistema de Desconto Progressivo
+# Sistema de Desconto Progressivo
 
 ## 📋 Sobre o projeto
 
@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como atividade do curso para implementar um sistem
 
 O programa solicita ao usuário o valor total da compra, identifica a porcentagem de desconto de acordo com o valor informado e apresenta o valor do desconto e o valor final a pagar.
 
-## 💰 Regras de desconto
+## Regras de desconto
 
 | Valor da compra | Desconto |
 |---|---:|
@@ -14,7 +14,7 @@ O programa solicita ao usuário o valor total da compra, identifica a porcentage
 | De R$ 200,00 até menor que R$ 300,00 | 10% |
 | Maior ou igual a R$ 300,00 | 15% |
 
-## 🧮 Fórmula utilizada
+## Fórmula utilizada
 
 O valor do desconto é calculado utilizando a seguinte fórmula:
 
@@ -36,7 +36,7 @@ Valor final = 250 − 25
 Valor final = R$ 225,00
 ~~~
 
-## ▶️ Como executar
+## Como executar
 
 ### Pré-requisito
 
@@ -58,7 +58,7 @@ No terminal, dentro da pasta do projeto, execute:
 python Pedro_Ag6_DS_I.py
 ~~~
 
-## 🧪 Exemplos de teste
+## Exemplos de teste
 
 O programa pode ser testado utilizando diferentes valores de compra:
 
@@ -75,7 +75,7 @@ O programa pode ser testado utilizando diferentes valores de compra:
 - 🌐 GitHub
 - 📝 Markdown
 
-## 📚 Conceitos utilizados
+## Conceitos utilizados
 
 Neste projeto foram utilizados conceitos de:
 
@@ -86,7 +86,7 @@ Neste projeto foram utilizados conceitos de:
 - Saída de dados com `print()`;
 - Formatação de valores utilizando f-string.
 
-## 👤 Autor
+## Autor
 
 **Pedro das Virgens Moura Alves**
 
