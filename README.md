@@ -70,7 +70,7 @@ O programa pode ser testado utilizando diferentes valores de compra:
 
 ## Tecnologias utilizadas
 
-- 🐍 Python 3
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) Python 3
 - 💻 Visual Studio Code
 - 🌐 GitHub
 - 📝 Markdown
