@@ -1,4 +1,4 @@
-![image](https://share.google/rtR7Sv2wFelbSpnBD) # Sistema de Desconto Progressivo
+![image](https://www.deviantart.com/wb51417/art/Wolverine---Transparent-4-851360042) # Sistema de Desconto Progressivo
 
 ## Sobre o projeto
 
