@@ -1,6 +1,6 @@
 # Sistema de Desconto Progressivo
 
-## 📋 Sobre o projeto
+## Sobre o projeto
 
 Este projeto foi desenvolvido como atividade do curso para implementar um sistema de desconto progressivo para uma loja online.
 
@@ -68,7 +68,7 @@ O programa pode ser testado utilizando diferentes valores de compra:
 | R$ 250,00 | R$ 25,00 | R$ 225,00 |
 | R$ 400,00 | R$ 60,00 | R$ 340,00 |
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - 🐍 Python 3
 - 💻 Visual Studio Code
