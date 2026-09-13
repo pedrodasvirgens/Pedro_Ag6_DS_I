@@ -1,4 +1,4 @@
-# Sistema de Desconto Progressivo
+![image](https://share.google/rtR7Sv2wFelbSpnBD) # Sistema de Desconto Progressivo
 
 ## Sobre o projeto
 
